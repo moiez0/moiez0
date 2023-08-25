@@ -6,7 +6,7 @@
 
 🤔  I'm also learning [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>](https://www.electronjs.org/) on the side
 
-💬 I'm a 15 year old student in the UK
+💬 I'm a 16 year old student in the UK
 
 **Knowledge:** 
 
